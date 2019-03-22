@@ -1,0 +1,33 @@
+git gui: sirbe para crear una interfaz grafica de un proyecto.
+
+
+rescan: escanea el repositorio para saber que archivo fue modificado borrado etc.
+
+stage changed: se guardan archivos que recibieron cambios.
+
+commit: Saca una "foto" del repositorio .
+
+push: manda el repositorio modificado a la web.
+
+area roja: archivos agregados al repositorio o modificados.
+
+edit -> option : Para agregar nombre y email propios.
+
+Se agregan comentario sobre la version en la que estemos en el text area commit messages siempre antes de hacer click en commit.
+
+
+
+git bush: es para acceder a la consola.
+
+
+comandos:
+
+ git clone (url del repositorio)			toma el repositorio y lo clona.
+
+ git status						Es como el rescan.
+
+ git add .						Es como el stage changed.
+
+ git commit -m						Comentario de lo que modifique o borre.
+
+ git push						Igual al push de git gui.
