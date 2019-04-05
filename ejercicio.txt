@@ -1,0 +1,18 @@
+El usuario tiene que ingresar 
+
+Nombre
+
+Apellido
+
+
+
+
+Mostrar
+
+ Apellido nombre
+
+Con la primer letra en mayuscula
+
+
+
+que el usuario lo ingrese con dif de mayus  minus.
