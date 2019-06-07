@@ -1,0 +1,45 @@
+Las variables estaticas no cambian en tiempo de ejecucion ej: array[10];
+
+
+
+El heap se puede acceder con un puntero desde la pila, a un array a el heap.
+
+Ventajas:
+
+Usa menos memoria de la pila.
+
+Desventajas:
+
+En caso de ser archivos muy pesados se necesita mas espacio consecutivio en el heap.
+
+
+
+
+
+Crear en la pila un array de punteros con valores guardados en el heap.
+
+Ventajas:
+
+Se puede ordenar mas facil. Accediendo al valor de las variables de los punteros.
+
+Desventajas:
+
+Las colecciones de datos (array) siguen siendo estaticas.
+
+
+
+Con doble puntero seria: int** lista;
+			 int* valor;
+
+Un puntero que apunte a un array de punteros (heap) con punteros aleatorios tambien guardados en el Heap.
+
+
+Ventajas:
+
+Se guarda muy poco en la pila.
+
+Es dinamico el almacenamiento de datos.
+
+
+
+
